@@ -15,7 +15,7 @@ class AboutAsserts(Koan):
         #
         #   http://bit.ly/about_asserts
 
-        self.assertTrue(True)  # This should be True
+        self.assertTrue(Tru)  # This should be True
 
     def test_assert_with_message(self):
         """
